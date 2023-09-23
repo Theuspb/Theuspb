@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou Matheus Baltazar 😊
 
-#### Estudante Tecnico em desenvolvimento de sistemas - SENAI <br/>  Universitario em ADS (Analise e Desenvolvimento de Sistemas)
+#### Estudante Tecnico em desenvolvimento de sistemas - SENAI (3 Semestre) <br/>  Universitario em ADS - Analise e Desenvolvimento de Sistemas (2 Semestre)
 
 ![Theuspb's GitHub stats](https://github-readme-stats.vercel.app/api?username=theuspb&show_icons=true&theme=dracula)
 
